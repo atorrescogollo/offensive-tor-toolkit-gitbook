@@ -6,7 +6,7 @@ We assume that **we are able to execute commands in Victim1** in some way.
 
 In order to obtain a reverse shell preserving anonymity, we will use **reverse-shell-over-tor** from **Offensive Tor Toolkit**. As shown in the following illustration, the attacker will publish a Hidden Service so that the victim can send the reverse shell to it.
 
-![Reverse shell over Tor](https://atorrescogollo.github.io/geekdoc/posts/static/offensive-tor-toolkit/02_reverse-shell-over-tor.png)
+![Reverse shell over Tor](../.gitbook/assets/02_reverse-shell-over-tor.png)
 
 ## 1. Hidden Service and handler
 

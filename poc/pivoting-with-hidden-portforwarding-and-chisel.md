@@ -4,7 +4,7 @@ At this point, Victim1 is already compromised. In order to reach Victim2 \(the *
 
 As shown in the following illustration, the victim will publish a Hidden Service that routes TCP traffic to the Chisel Server \(running in the pivot\). Once the Chisel server is reached from the Chisel client, an **SOCKS5+HTTP tunnel** is established so that we can send packets through it.
 
-![Hidden Port Forwarding for Chisel tunnel](https://atorrescogollo.github.io/geekdoc/posts/static/offensive-tor-toolkit/04_hidden-portforwarding.png)
+![Hidden Port Forwarding for Chisel tunnel](../.gitbook/assets/04_hidden-portforwarding.png)
 
 ## 1. Run Chisel Server in the pivot
 

@@ -7,7 +7,7 @@ First of all, we have the following vulnerable scenario:
 * **Victim1** serves a vulnerable service to Internet.
 * **Victim2** serves a vulnerable service to the internal network and it has no access to Internet.
 
-![Scenario](https://atorrescogollo.github.io/geekdoc/posts/static/offensive-tor-toolkit/01_Overview.png)
+![Scenario](../.gitbook/assets/01_overview.png)
 
 
 

@@ -6,7 +6,7 @@ In order to get a bind shell served by Victim1 on the Tor network, we will use *
 When the bind shell is publish, any access will be replied with a shell. **Use with CAUTION!**
 {% endhint %}
 
-![Hidden Service as Bind Shell](../.gitbook/assets/image.png)
+![Hidden Service as Bind Shell](../.gitbook/assets/03_hidden-bind-shell.png)
 
 ## 1. Hidden Service for bind shell
 
