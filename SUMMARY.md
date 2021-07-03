@@ -17,8 +17,5 @@
 * [Gaining access with reverse-shell-over-tor](poc/gaining-access-with-reverse-shell-over-tor.md)
 * [Multi-shell access with hidden-bind-shell](poc/multi-shell-access-with-hidden-bind-shell.md)
 * [Pivoting with hidden-portforwarding and Chisel](poc/pivoting-with-hidden-portforwarding-and-chisel.md)
-
----
-
-* [Remote port forwarding with tcp2tor-proxy](remote-port-forwarding-with-tcp2tor-proxy.md)
+* [Remote port forwarding with tcp2tor-proxy](poc/remote-port-forwarding-with-tcp2tor-proxy.md)
 
